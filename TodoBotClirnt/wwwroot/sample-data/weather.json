@@ -1,0 +1,27 @@
+﻿[
+  {
+    "date": "2018-05-06",
+    "temperatureC": 1,
+    "summary": "凍てつく"
+  },
+  {
+    "date": "2018-05-07",
+    "temperatureC": 14,
+    "summary": "すがすがしい"
+  },
+  {
+    "date": "2018-05-08",
+    "temperatureC": -13,
+    "summary": "凍てつく"
+  },
+  {
+    "date": "2018-05-09",
+    "temperatureC": -16,
+    "summary": "さわやか"
+  },
+  {
+    "date": "2018-05-10",
+    "temperatureC": -2,
+    "summary": "寒々しい"
+  }
+]
